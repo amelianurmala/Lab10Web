@@ -269,10 +269,3 @@ input[type="submit"] {
 
 
 
-
-
-
-
-
-Kalau kamu mau aku buatkan **versi yang lebih panjang**, **versi bahasa formal**, atau **versi untuk laporan PDF**, tinggal bilang aja.
-```
