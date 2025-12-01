@@ -15,13 +15,16 @@
 Pertama saya membuat struktur folder seperti berikut:
 
 ```
-project/
-│── form.php          # Class untuk membuat form input dinamis
-│── database.php      # Class untuk koneksi database dan insert/update/delete
-│── form_input.php    # Halaman utama menampilkan form dan tabel mahasiswa
-│── style.css         # Styling tampilan form dan tabel
-│── index.php         # Dashboard / halaman utama (opsional)
-│── demo_mobil.php    # Demo OOP mobil (contoh lain)
+lab10_php_oop/
+│── index.php          → Dashboard + Search + Total Siswa
+│── form_input.php     → Form tambah data + insert database
+│── detail.php         → Lihat detail data dalam card rapi
+│── edit.php           → Form edit data dalam kotak card
+│── delete.php         → Hapus data mahasiswa
+│── demo_oop.php       → Tampilan OOP Mobil (sesuai modul dosen)
+│── mobil.php          → Class Mobil (tetap asli, tampilan diperindah)
+│── database.php       → Class koneksi + CRUD
+│── style.css          → Semua styling UI Web
 ```
 
 ---
